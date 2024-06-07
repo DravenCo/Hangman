@@ -15,3 +15,7 @@ Add your name here:
 - Dominic
 - Alex Thompson
 - Emma Barnes
+- Owen
+- Kai Pratt
+- Nino Matanguihan
+- Samantha
