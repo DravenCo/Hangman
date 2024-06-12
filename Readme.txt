@@ -20,3 +20,4 @@ Add your name here:
 - Nino Matanguihan
 - Samantha
 - kevin ibbett
+- Sam Rivett
