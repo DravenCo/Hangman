@@ -20,4 +20,8 @@ Add your name here:
 - Nino Matanguihan
 - Samantha
 - kevin ibbett
+<<<<<<< patch-2
 - Draven Cottier
+=======
+- Sam Rivett
+>>>>>>> main
